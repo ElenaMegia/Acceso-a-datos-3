@@ -45,6 +45,11 @@
             <artifactId>hibernate-core</artifactId>
             <version>4.0.1.Final</version>
         </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>Acceso-a-datos-3</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
